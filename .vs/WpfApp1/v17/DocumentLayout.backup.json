@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -94,18 +94,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml",
               "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\LoginWindow.xaml",
               "RelativeToolTip": "WpfApp1\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-14T08:49:31.443Z"
+              "WhenOpened": "2025-11-14T08:49:31.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
@@ -117,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentContext.cs",
               "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\Models\\StudentContext.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Models\\StudentContext.cs",
@@ -153,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml.cs",

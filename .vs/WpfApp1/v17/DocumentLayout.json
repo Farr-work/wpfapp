@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\",
+  "WorkspaceRootPath": "D:\\EPU\\.NET\\codegit\\wpfapp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\workspace\\epu\\lt_net\\project\\wpfapp1\\wpfapp1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|d:\\epu\\.net\\codegit\\wpfapp\\wpfapp1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD504DA-9AD2-4DDC-A794-3073E5902F94}|WpfApp1\\StudentManager.csproj|solutionrelative:wpfapp1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,9 +60,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\App.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\App.xaml.cs",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\App.xaml.cs",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\App.xaml.cs",
               "RelativeToolTip": "WpfApp1\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "App.xaml",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\App.xaml",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\App.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\App.xaml",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\App.xaml",
               "RelativeToolTip": "WpfApp1\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-14T09:10:31.296Z",
@@ -84,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "RegisterWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\RegisterWindow.xaml.cs",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\RegisterWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\RegisterWindow.xaml.cs",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\RegisterWindow.xaml.cs",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\RegisterWindow.xaml.cs",
               "RelativeToolTip": "WpfApp1\\RegisterWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\LoginWindow.xaml",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\LoginWindow.xaml",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\LoginWindow.xaml",
               "RelativeToolTip": "WpfApp1\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-14T08:49:31.443Z",
@@ -108,21 +108,20 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\MainWindow.xaml",
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-14T09:12:28.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-14T09:12:28.181Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "StudentContext.cs",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\Models\\StudentContext.cs",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\Models\\StudentContext.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Models\\StudentContext.cs",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\Models\\StudentContext.cs",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\Models\\StudentContext.cs",
               "RelativeToolTip": "WpfApp1\\Models\\StudentContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAuwAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +131,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\Models\\Student.cs",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Models\\Student.cs",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\Models\\Student.cs",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\Models\\Student.cs",
               "RelativeToolTip": "WpfApp1\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +143,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAA9wGAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,9 +155,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\LoginWindow.xaml.cs",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\LoginWindow.xaml.cs",
               "RelativeToolTip": "WpfApp1\\LoginWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,9 +167,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "RegisterWindow.xaml",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\RegisterWindow.xaml",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\RegisterWindow.xaml",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\RegisterWindow.xaml",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\RegisterWindow.xaml",
               "RelativeToolTip": "WpfApp1\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-14T10:05:31.617Z"
@@ -179,9 +178,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\Models\\User.cs",
+              "DocumentMoniker": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\Models\\User.cs",
               "RelativeDocumentMoniker": "WpfApp1\\Models\\User.cs",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\WpfApp1\\WpfApp1\\Models\\User.cs",
+              "ToolTip": "D:\\EPU\\.NET\\codegit\\wpfapp\\WpfApp1\\Models\\User.cs",
               "RelativeToolTip": "WpfApp1\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
