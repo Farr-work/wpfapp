@@ -41,7 +41,7 @@
         <Border Background="White" CornerRadius="8" Padding="20"
                 BorderBrush="#E5E7EB" BorderThickness="1">
             <StackPanel>
-                <TextBlock Text="Đăng nhập" FontSize="20"
+                <TextBlock Text="Đăng nhập nè" FontSize="20"
                            FontWeight="Bold" Margin="0 0 0 12"
                            Foreground="#111827"/>
 
